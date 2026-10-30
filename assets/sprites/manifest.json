@@ -1,0 +1,782 @@
+{
+  "collection": "TEORA gothic pixel sprite sheets",
+  "generation": "Built-in image_gen, transparent_background=true; icons and characters received a targeted imagegen gutter correction. No external image editing, cropping or resizing.",
+  "grid": {
+    "columns": 4,
+    "rows": 4,
+    "framesPerLoop": 4,
+    "totalLoops": 20,
+    "totalFrames": 80
+  },
+  "css": {
+    "backgroundSize": "400% 400%",
+    "rowY": [
+      "0%",
+      "33.333333%",
+      "66.666667%",
+      "100%"
+    ],
+    "horizontalAnimationFrom": "0%",
+    "horizontalAnimationTo": "133.333333%",
+    "timingFunction": "steps(4,end)",
+    "imageRendering": "pixelated"
+  },
+  "notes": [
+    "Each row is a separate four-frame loop in the order given in loops.",
+    "Files are1254px originals returned by the tool; percentage CSS uses equal quarter cells at313.5px logical source size.",
+    "Prompt requested generous20%transparent gutters. Generated gutters vary; inspected sprite silhouettes remain in their rows and no major object is clipped.",
+    "Original cute gothic subjects in atelier and curiosities extend the Hello Kitty set."
+  ],
+  "assets": [
+    {
+      "file": "characters.png",
+      "path": "assets/sprites/characters.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "bytes": 970868,
+      "loops": [
+        {
+          "id": "kitty-wave",
+          "row": 0,
+          "backgroundPositionY": "0%",
+          "frames": 4,
+          "alt": "Hello Kitty salută și clipește"
+        },
+        {
+          "id": "kitty-bat",
+          "row": 1,
+          "backgroundPositionY": "33.333333%",
+          "frames": 4,
+          "alt": "Hello Kitty deschide aripile de liliac"
+        },
+        {
+          "id": "kitty-potion",
+          "row": 2,
+          "backgroundPositionY": "66.666667%",
+          "frames": 4,
+          "alt": "Hello Kitty urmărește bulele unei poțiuni"
+        },
+        {
+          "id": "kitty-sleep",
+          "row": 3,
+          "backgroundPositionY": "100%",
+          "frames": 4,
+          "alt": "Hello Kitty doarme pe o pernă"
+        }
+      ],
+      "cellBoundsAtAlphaOver40": [
+        [
+          [
+            80,
+            83,
+            236,
+            277
+          ],
+          [
+            79,
+            83,
+            236,
+            277
+          ],
+          [
+            79,
+            83,
+            235,
+            277
+          ],
+          [
+            81,
+            83,
+            237,
+            277
+          ]
+        ],
+        [
+          [
+            80,
+            73,
+            236,
+            267
+          ],
+          [
+            72,
+            73,
+            246,
+            267
+          ],
+          [
+            45,
+            73,
+            272,
+            267
+          ],
+          [
+            76,
+            73,
+            246,
+            267
+          ]
+        ],
+        [
+          [
+            79,
+            61,
+            248,
+            266
+          ],
+          [
+            79,
+            61,
+            246,
+            267
+          ],
+          [
+            79,
+            61,
+            250,
+            267
+          ],
+          [
+            81,
+            61,
+            250,
+            267
+          ]
+        ],
+        [
+          [
+            42,
+            64,
+            262,
+            236
+          ],
+          [
+            52,
+            65,
+            275,
+            237
+          ],
+          [
+            45,
+            65,
+            271,
+            237
+          ],
+          [
+            53,
+            65,
+            277,
+            237
+          ]
+        ]
+      ]
+    },
+    {
+      "file": "stars.png",
+      "path": "assets/sprites/stars.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "bytes": 417256,
+      "loops": [
+        {
+          "id": "silver-star",
+          "row": 0,
+          "backgroundPositionY": "0%",
+          "frames": 4,
+          "alt": "Stea argintie care sclipește"
+        },
+        {
+          "id": "pink-heart",
+          "row": 1,
+          "backgroundPositionY": "33.333333%",
+          "frames": 4,
+          "alt": "Inimioară pixel cu reflexie roz"
+        },
+        {
+          "id": "little-bat",
+          "row": 2,
+          "backgroundPositionY": "66.666667%",
+          "frames": 4,
+          "alt": "Liliac mic care bate din aripi"
+        },
+        {
+          "id": "crescent",
+          "row": 3,
+          "backgroundPositionY": "100%",
+          "frames": 4,
+          "alt": "Semilună cu o sclipire"
+        }
+      ],
+      "cellBoundsAtAlphaOver40": [
+        [
+          [
+            109,
+            139,
+            207,
+            240
+          ],
+          [
+            95,
+            122,
+            226,
+            259
+          ],
+          [
+            64,
+            97,
+            252,
+            283
+          ],
+          [
+            90,
+            121,
+            224,
+            259
+          ]
+        ],
+        [
+          [
+            89,
+            104,
+            228,
+            225
+          ],
+          [
+            88,
+            104,
+            227,
+            225
+          ],
+          [
+            86,
+            104,
+            226,
+            225
+          ],
+          [
+            87,
+            104,
+            226,
+            225
+          ]
+        ],
+        [
+          [
+            39,
+            77,
+            280,
+            211
+          ],
+          [
+            38,
+            99,
+            276,
+            211
+          ],
+          [
+            51,
+            99,
+            264,
+            227
+          ],
+          [
+            38,
+            99,
+            276,
+            211
+          ]
+        ],
+        [
+          [
+            91,
+            72,
+            261,
+            212
+          ],
+          [
+            88,
+            72,
+            248,
+            212
+          ],
+          [
+            86,
+            72,
+            238,
+            212
+          ],
+          [
+            83,
+            72,
+            243,
+            212
+          ]
+        ]
+      ]
+    },
+    {
+      "file": "icons.png",
+      "path": "assets/sprites/icons.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "bytes": 773073,
+      "loops": [
+        {
+          "id": "calculator",
+          "row": 0,
+          "backgroundPositionY": "0%",
+          "frames": 4,
+          "alt": "Calculator cu taste care se luminează"
+        },
+        {
+          "id": "coin",
+          "row": 1,
+          "backgroundPositionY": "33.333333%",
+          "frames": 4,
+          "alt": "Monedă argintie care se rotește"
+        },
+        {
+          "id": "chain",
+          "row": 2,
+          "backgroundPositionY": "66.666667%",
+          "frames": 4,
+          "alt": "Zale argintii cu reflexie roz"
+        },
+        {
+          "id": "potion",
+          "row": 3,
+          "backgroundPositionY": "100%",
+          "frames": 4,
+          "alt": "Sticluță cu bule de poțiune"
+        }
+      ],
+      "cellBoundsAtAlphaOver40": [
+        [
+          [
+            81,
+            103,
+            242,
+            292
+          ],
+          [
+            78,
+            103,
+            239,
+            292
+          ],
+          [
+            75,
+            103,
+            237,
+            292
+          ],
+          [
+            72,
+            103,
+            234,
+            292
+          ]
+        ],
+        [
+          [
+            72,
+            109,
+            255,
+            290
+          ],
+          [
+            86,
+            106,
+            233,
+            290
+          ],
+          [
+            122,
+            107,
+            191,
+            290
+          ],
+          [
+            83,
+            106,
+            231,
+            290
+          ]
+        ],
+        [
+          [
+            67,
+            103,
+            270,
+            254
+          ],
+          [
+            65,
+            103,
+            265,
+            254
+          ],
+          [
+            59,
+            103,
+            263,
+            254
+          ],
+          [
+            57,
+            103,
+            262,
+            254
+          ]
+        ],
+        [
+          [
+            76,
+            37,
+            248,
+            251
+          ],
+          [
+            72,
+            37,
+            245,
+            251
+          ],
+          [
+            69,
+            36,
+            241,
+            251
+          ],
+          [
+            67,
+            36,
+            239,
+            251
+          ]
+        ]
+      ]
+    },
+    {
+      "file": "atelier.png",
+      "path": "assets/sprites/atelier.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "bytes": 1129937,
+      "loops": [
+        {
+          "id": "candle",
+          "row": 0,
+          "backgroundPositionY": "0%",
+          "frames": 4,
+          "alt": "Lumânare goth cu flacără tremurătoare"
+        },
+        {
+          "id": "lighter",
+          "row": 1,
+          "backgroundPositionY": "33.333333%",
+          "frames": 4,
+          "alt": "Brichetă cu flacără violet în formă de stea"
+        },
+        {
+          "id": "winged-coin",
+          "row": 2,
+          "backgroundPositionY": "66.666667%",
+          "frames": 4,
+          "alt": "Monedă cu aripi de liliac"
+        },
+        {
+          "id": "portal",
+          "row": 3,
+          "backgroundPositionY": "100%",
+          "frames": 4,
+          "alt": "Portal vișiniu cu lună strălucitoare"
+        }
+      ],
+      "cellBoundsAtAlphaOver40": [
+        [
+          [
+            82,
+            56,
+            245,
+            292
+          ],
+          [
+            75,
+            37,
+            237,
+            292
+          ],
+          [
+            76,
+            51,
+            238,
+            292
+          ],
+          [
+            76,
+            37,
+            238,
+            292
+          ]
+        ],
+        [
+          [
+            58,
+            68,
+            237,
+            277
+          ],
+          [
+            52,
+            39,
+            231,
+            277
+          ],
+          [
+            53,
+            60,
+            232,
+            277
+          ],
+          [
+            54,
+            39,
+            233,
+            278
+          ]
+        ],
+        [
+          [
+            72,
+            76,
+            248,
+            313
+          ],
+          [
+            36,
+            76,
+            278,
+            313
+          ],
+          [
+            3,
+            71,
+            310,
+            313
+          ],
+          [
+            36,
+            76,
+            278,
+            313
+          ]
+        ],
+        [
+          [
+            35,
+            0,
+            278,
+            260
+          ],
+          [
+            35,
+            0,
+            278,
+            260
+          ],
+          [
+            35,
+            0,
+            278,
+            260
+          ],
+          [
+            36,
+            0,
+            279,
+            260
+          ]
+        ]
+      ]
+    },
+    {
+      "file": "curiosities.png",
+      "path": "assets/sprites/curiosities.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "bytes": 1422829,
+      "loops": [
+        {
+          "id": "raven",
+          "row": 0,
+          "backgroundPositionY": "0%",
+          "frames": 4,
+          "alt": "Corb mic care poartă un plic sigilat"
+        },
+        {
+          "id": "hourglass",
+          "row": 1,
+          "backgroundPositionY": "33.333333%",
+          "frames": 4,
+          "alt": "Clepsidră goth cu nisip roz"
+        },
+        {
+          "id": "ghost",
+          "row": 2,
+          "backgroundPositionY": "66.666667%",
+          "frames": 4,
+          "alt": "Fantomă prietenoasă cu fundă vișinie"
+        },
+        {
+          "id": "treasure",
+          "row": 3,
+          "backgroundPositionY": "100%",
+          "frames": 4,
+          "alt": "Cufăr goth cu monede sclipitoare"
+        }
+      ],
+      "cellBoundsAtAlphaOver40": [
+        [
+          [
+            44,
+            40,
+            294,
+            272
+          ],
+          [
+            26,
+            91,
+            293,
+            272
+          ],
+          [
+            44,
+            138,
+            293,
+            303
+          ],
+          [
+            48,
+            61,
+            294,
+            272
+          ]
+        ],
+        [
+          [
+            73,
+            29,
+            242,
+            297
+          ],
+          [
+            72,
+            28,
+            242,
+            297
+          ],
+          [
+            73,
+            29,
+            242,
+            297
+          ],
+          [
+            73,
+            28,
+            243,
+            297
+          ]
+        ],
+        [
+          [
+            64,
+            35,
+            265,
+            288
+          ],
+          [
+            67,
+            35,
+            265,
+            288
+          ],
+          [
+            46,
+            35,
+            265,
+            288
+          ],
+          [
+            70,
+            35,
+            266,
+            288
+          ]
+        ],
+        [
+          [
+            39,
+            53,
+            277,
+            259
+          ],
+          [
+            39,
+            53,
+            276,
+            259
+          ],
+          [
+            39,
+            53,
+            277,
+            259
+          ],
+          [
+            40,
+            53,
+            277,
+            259
+          ]
+        ]
+      ]
+    }
+  ]
+}

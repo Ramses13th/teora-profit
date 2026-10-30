@@ -1,0 +1,145 @@
+{
+  "collection": "TEORA Hello Kitty Goth",
+  "generation": "Built-in image_gen; eight independent generations; transparent_background=true",
+  "palette": [
+    "#17101e",
+    "#68405f",
+    "#8d3655",
+    "#e3d9e8"
+  ],
+  "requestedDimensions": [
+    512,
+    512
+  ],
+  "note": "The image tool returned 1254px originals; original PNG files are preserved without resizing or editing.",
+  "assets": [
+    {
+      "file": "welcome.png",
+      "path": "assets/kitty/welcome.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1514282,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty în ținută goth cu fundă vișinie și dantelă neagră, salutând cu o lăbuță.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty standing, warmly waving one paw, wearing a black lace capelet and elegant burgundy lace bow with small silver moon charm."
+    },
+    {
+      "file": "calculator.png",
+      "path": "assets/kitty/calculator.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1761394,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty goth ține un calculator mov, lângă un mic teanc de monede argintii.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty seated holding a small black and plum calculator with blank symbolic keys, a tiny neat stack of silver coins beside her, black lace bow."
+    },
+    {
+      "file": "bat.png",
+      "path": "assets/kitty/bat.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1610609,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty goth cu aripi de liliac, pelerină neagră și fundă vișinie.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty wearing a soft black bat-wing cape and plum lace bow, tiny decorative bat wings spread symmetrically, cheerful cute pose."
+    },
+    {
+      "file": "potion.png",
+      "path": "assets/kitty/potion.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1816912,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty în rochie cu dantelă ține o sticluță de poțiune violet strălucitoare.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty holding one round glass potion bottle with softly glowing dusty-purple liquid, black gothic bow and capelet, delicate silver charm."
+    },
+    {
+      "file": "moon.png",
+      "path": "assets/kitty/moon.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1856236,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty goth șade pe o semilună argintie ornamentată, cu o steluță vișinie suspendată.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty sitting peacefully on a small ornate silver crescent moon, black lace outfit and burgundy bow, one little dangling plum star."
+    },
+    {
+      "file": "books.png",
+      "path": "assets/kitty/books.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1595976,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty goth șade pe două cărți închise la culoare și ține un semn de carte cu ciucure.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty sitting on a small stack of two old plum-and-black books with plain covers, holding a bookmark, burgundy lace bow and silver collar charm."
+    },
+    {
+      "file": "crystal.png",
+      "path": "assets/kitty/crystal.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1884130,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty goth cu glugă din dantelă, lângă un glob de cristal cu reflexii liliachii.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty beside a small crystal ball on an ornate plum stand, paws resting near the crystal, black lace hood and burgundy bow, subtle lavender glow contained inside ball."
+    },
+    {
+      "file": "rest.png",
+      "path": "assets/kitty/rest.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1778412,
+      "format": "PNG",
+      "mode": "RGBA",
+      "transparent": true,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "alt": "Hello Kitty doarme pe o pernă de catifea neagră cu funde și ciucuri vișinii.",
+      "prompt": "Use case: stylized-concept. Asset type: decorative transparent PNG cutout for TEORA dark-goth tools website. A recognizable cute Hello Kitty character, white cat, black oval eyes, small yellow nose, iconic bow, no mouth. Cute wholesome gothic kawaii, polished softly shaded sticker illustration with elegant crisp dark outlines and subtle lilac rim lighting for visibility on dark pages. Cohesive restrained palette ink black #17101e, dusty plum #68405f, burgundy #8d3655, soft silver #e3d9e8; white face preserved. One isolated full character and its small prop, centered on a square 512x512 canvas with generous transparent margin. Genuinely transparent alpha background, no checkerboard, no backdrop, no floor, no scene, no text, no logos, no labels, no watermark, no extra characters. Subject and pose: Hello Kitty sleeping curled on a little black velvet cushion with plum tassels, black lace sleep bonnet with burgundy bow, no letters or sleep symbols."
+    }
+  ]
+}
